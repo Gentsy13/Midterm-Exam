@@ -1,0 +1,4 @@
+-AJ B. Lomocso
+-Bachelor of science in computer science
+-Software engineering 2
+-BSCS-31
